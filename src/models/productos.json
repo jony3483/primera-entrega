@@ -1,0 +1,50 @@
+[
+  {
+    "title": "cafe",
+    "description": "El mejor",
+    "price": "1000",
+    "img": "Sin Imagen",
+    "code": "abc123",
+    "stock": "150",
+    "category": "Almacen",
+    "status": true,
+    "thumbnails": [],
+    "id": 1
+  },
+  {
+    "title": "Cafedos",
+    "description": "De Colombia",
+    "price": "2500",
+    "img": "Sin Imagen",
+    "code": "abc124",
+    "stock": "150",
+    "category": "Almacen",
+    "status": true,
+    "thumbnails": [],
+    "id": 2
+  },
+  {
+    "title": "cafetres",
+    "description": "granulado",
+    "price": "3500",
+    "img": "Sin Imagen",
+    "code": "abc125",
+    "stock": "150",
+    "category": "Almacen",
+    "status": true,
+    "thumbnails": [],
+    "id": 3
+  },
+  {
+    "title": "cafecuatro",
+    "description": "descafeinado",
+    "price": "5500",
+    "img": "Sin Imagen",
+    "code": "abc126",
+    "stock": "150",
+    "category": "Almacen",
+    "status": true,
+    "thumbnails": [],
+    "id": 4
+  }
+]
